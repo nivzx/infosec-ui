@@ -51,7 +51,7 @@
                         <Label fx:id="decryptImgLabel" layoutX="203.0" layoutY="76.0" />
                         <Button layoutX="272.0" layoutY="307.0" mnemonicParsing="false" onAction="#handleDecrypt" text="Decrypt" />
                         <Text layoutX="43.0" layoutY="160.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Message" />
-                        <TextArea fx:id="msgTxtArea" layoutX="130.0" layoutY="147.0" prefHeight="69.0" prefWidth="294.0" />
+                        <TextArea fx:id="msgTxtArea" layoutX="124.0" layoutY="147.0" prefHeight="69.0" prefWidth="294.0" />
                      </children>
                   </AnchorPane>
                </content>
